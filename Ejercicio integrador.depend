@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651273454 source:c:\users\sofibarbona\onedrive\facultad\1. programación de computadoras\4. arreglos - funciones y procedimientos\ejercicios\ejercicio integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
